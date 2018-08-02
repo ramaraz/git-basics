@@ -6,8 +6,8 @@
 
 - **A** for *Anxiety*
 - **B** for *Bodacious*
-- **C** for *Clever*
-- **D** for *Daemon*
+- **C** for *Cat*
+- **D** for *Dog*
 
 ### Some type setting stuff here
 
