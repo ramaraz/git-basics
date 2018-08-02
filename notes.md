@@ -6,7 +6,7 @@
 
 - **A** for *Anxiety*
 - **B** for *Bodacious*
-- **C** for *Cat*
+- **C** for *Comedy*
 - **D** for *Dog*
 
 ### Some type setting stuff here
